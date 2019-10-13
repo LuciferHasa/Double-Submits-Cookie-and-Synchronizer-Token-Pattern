@@ -1,0 +1,1 @@
+# Double-Submits-Cookie-and-Synchronizer-Token-Pattern
